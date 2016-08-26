@@ -1,0 +1,36 @@
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\bin\Envios.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\bin\Envios.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\bin\Utilidades.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\bin\Utilidades.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\obj\Debug\Envios.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Envios\obj\Debug\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\obj\Debug\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\obj\Debug\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\obj\Debug\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Envios\obj\Debug\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\obj\Debug\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Envios\obj\Debug\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\obj\Debug\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\obj\Debug\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Envios\bin\Envios.dll.config

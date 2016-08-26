@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.Master.cs" Inherits="Web.PaginaPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/AltaCliente.aspx" Text="Alta Clientes | " Value="Alta Clientes"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/AltaAdmin.aspx" Text="Alta Admin | " Value="Alta Admin"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/AltaOficina.aspx" Text="Alta Oficina |" Value="Alta Oficina |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/AltaPaquete.aspx" Text="Alta Paquete |" Value="Alta paquete |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/AltaDocumento.aspx" Text="Alta Documento |" Value="Alta Documento |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/ModificarStatus.aspx" Text="Modificar Envio |" Value="Modificar Envio |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Simulador.aspx" Text="Simulador |" Value="Simulador |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Rastreo.aspx" Text="Rastreo |" Value="Rastreo |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Listados.aspx" Text="Listados |" Value="Listados |"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login | " Value="Login"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+        <br />
+        <br />
+        Bienvenido
+        <asp:Label ID="lblUsuario" runat="server"></asp:Label>
+            
+    </div>
+    </form>
+
+    </body>
+</html>

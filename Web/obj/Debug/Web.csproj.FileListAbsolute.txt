@@ -1,0 +1,46 @@
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\bin\Web.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\bin\Web.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\bin\Envios.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\bin\Utilidades.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\bin\Envios.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\bin\Utilidades.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\obj\Debug\Web.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Web\obj\Debug\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\bin\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\bin\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\obj\Debug\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Web\obj\Debug\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\obj\Debug\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\bin\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\bin\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\buck up\Envios- 24Junio16.00 (con cambios en modif oficina actual)\Web\obj\Debug\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\bin\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\bin\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\obj\Debug\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Web\obj\Debug\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Envios.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Envios.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\obj\Debug\Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\obj\Debug\Web.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Web\bin\Web.dll.config

@@ -1,0 +1,17 @@
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\documents\visual studio 2012\Projects\Envios\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\P2\Envios\Envios\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\P2\entrega2\Envios\Utilidades\obj\Debug\Utilidades.pdb
